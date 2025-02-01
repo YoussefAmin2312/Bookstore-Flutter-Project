@@ -1,5 +1,5 @@
  Bookstore App 
-This is a Flutter-based Bookstore Application that allows users to browse, search, and purchase books in multiple categories. The app features a well-designed UI with horizontally scrollable book sections, a wishlist, a shopping cart, and Firebase Authentication for secure login and signup.
+This is a Flutter-based Bookstore Application that allows to search, and purchase books in multiple categories. The app features a well-designed UI with horizontally scrollable book sections, a wishlist, a shopping cart, and Firebase Authentication for secure login and signup.
 
  Features
 Home Page: Displays books in categorized sections (Best Arabic Books, Best English Books, and Highly Rated Books ).
